@@ -1,0 +1,1 @@
+import { IDaoObject } from "@server/dao/daoBase";
