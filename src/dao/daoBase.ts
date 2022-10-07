@@ -5,7 +5,6 @@ export interface IDaoObject {
     createOne: Function;
     update: Function;
     delete: Function;
-    findByFilter: Function;
-    aggregate: Function;
+
   }
   
